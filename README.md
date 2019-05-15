@@ -14,4 +14,4 @@ How To Install: <br />
 
 
 Take the file called "ratchet_and_clank_mod" and put it into your Quake 2 Folder that contains quake2.exe. Use the provided shortcut to automatically launch the mod. To create your own shortcut create a shortcut and open Properties.
- Once there at the end of the target line add the following:  +set game "ratchet_and_clank_mod" +set r_mode -1 +set r_customwidth 1024 +set r_customheight 768<br />
+ Once there at the end of the target line add the following:  +set game "ratchet_and_clank_mod" <br />
