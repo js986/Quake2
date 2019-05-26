@@ -9,7 +9,7 @@ BFG 10K ->RYNO<br />Grenades -> Bee Mine Glove<br />
 <br />
 
 
-The weapons and player can both level up for more damage and other perks.
+The weapons and player can both level up for more damage and other perks including a thruster pack and charge boots.
 How To Install: <br />
 
 
